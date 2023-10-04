@@ -1,0 +1,1 @@
+INSERT INTO role (name, parent_role_id) VALUES ('ROLE_ADMIN', null), ('ROLE_EMPLOYEE', 1), ('ROLE_USER', 2),  ('ROLE_GUEST', 3);
